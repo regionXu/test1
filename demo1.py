@@ -6,7 +6,7 @@ class Student:
     def __len__(self):
         return len(self.name)
 
-stu1=Student('张三')
+stu1=Student('王五')
 stu2=Student('李四')
 
 s=stu1+stu2
